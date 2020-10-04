@@ -212,14 +212,14 @@ class M_dah extends CI_Model{
 				$config = array();
 				$config['charset'] = 'utf-8';
 				$config['useragent'] = 'Codeigniter';
-				// $config['protocol']= "http"; //khusus buat di hosting
-				$config['protocol']= "smtp"; 
+				$config['protocol']= "http"; //khusus buat di hosting
+				// $config['protocol']= "smtp"; 
 	
 				$config['mailtype']= "html";
-				// $config['smtp_host']= "smtp.gmail.com"; //khusus buat di hosting
-				$config['smtp_port']=  465;
-				$config['smtp_host']= "ssl://smtp.gmail.com";
-				// $config['smtp_port']= "587"; //khusus buat di hosting ada sslnya
+				$config['smtp_port']= "587"; //khusus buat di hosting ada sslnya
+				$config['smtp_host']= "smtp.gmail.com"; //khusus buat di hosting
+				// $config['smtp_port']=  465;
+				// $config['smtp_host']= "ssl://smtp.gmail.com";
 	
 				$config['smtp_timeout']= "10";
 				$config['smtp_user']= "bantuansadean@gmail.com"; // isi dengan email kamu

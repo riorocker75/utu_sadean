@@ -349,7 +349,7 @@ class Index extends CI_Controller {
 
 			// email config
 			$this->load->library('email');
-			$subyek="Pengingat Pembayaran";
+			$subyek="Pendaftaran Member";
 			$pesan="
 			<html>
 			<head>
