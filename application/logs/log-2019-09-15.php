@@ -1,0 +1,46 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-09-15 12:16:44 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:16:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-15 12:16:55 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:18:33 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:18 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:19 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:41 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:42 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:42 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:43 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:43 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:43 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:44 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:44 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:44 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:44 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:45 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:45 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:45 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:45 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:45 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:46 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:46 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:46 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:47 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:47 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:47 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:48 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:48 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:48 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:19:59 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:20:22 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:20:22 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:20:23 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:20:23 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:20:23 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:20:24 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:20:24 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:20:24 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:20:24 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:20:24 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:20:25 --> 404 Page Not Found: /index
+ERROR - 2019-09-15 12:24:21 --> Severity: error --> Exception: Unable to locate the model you have specified: M_dah /home/u619955691/domains/serbaumbi.esy.es/public_html/system/core/Loader.php 344
+ERROR - 2019-09-15 12:37:45 --> 404 Page Not Found: /index

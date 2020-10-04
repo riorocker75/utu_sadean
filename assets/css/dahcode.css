@@ -1,0 +1,223 @@
+.modal-produk img{
+	width: 100% !important;
+}
+
+.modal-produk p{
+	font-size: 12pt !important;
+}
+
+
+
+/*system*/
+.fancybox-lock .fancybox-overlay{
+	overflow-y: auto !important;
+}
+
+/*end system*/
+
+.product-list{
+	display: flex;  
+	flex-direction: row;
+	flex-wrap: wrap;
+	flex-flow: <'flex-wrap'>;
+	justify-content: space-between;
+}
+
+.product{
+	height: 100%;
+}
+
+.product .btn-add-cart{
+	color: #fff;
+}
+
+.product-item{
+	width: 24%;
+	height: 100%;
+}
+.product .thumb{
+	/*height: 256px;*/
+	overflow: hidden;
+}
+.product .thumb img{
+	width: 100%;
+	height: auto;
+}
+
+.product a{
+	color: #333;
+}
+
+.product .product-harga{
+	font-size: 13pt;
+}
+
+/*pagination*/
+.paging{  
+	border-radius: 0;
+	padding: 10px 0px;
+	width: 100%;  	
+	overflow: hidden;
+}
+
+.paging strong{ 
+	padding: 8px 11px;  	
+	color: #fff;
+	font-weight: bold;
+	cursor: pointer;
+	background: #2196f3;
+}
+
+.paging strong:hover{ 
+	background: #2196f3;	
+	color: #fff;
+}
+
+.paging a{
+	padding: 8px 11px;	
+	-webkit-transition:all .2s ease-in-out;
+	transition:all .2s ease-in-out;
+	color: #333;
+}
+
+.paging a:hover{
+	background: #2196f3;	
+	color: #fff;
+}
+
+.service{	
+	overflow: hidden;
+}
+
+.service .service-item{
+	background: #ededed;
+	margin: 40px 0px;
+	overflow: hidden;
+	padding: 15px 0px 25px 10px;
+}
+
+.service .service-kiri{
+	height: 100%;	
+	padding-top: 15px;
+}
+
+.service .service-kiri i{	
+	font-size: 30pt;
+}
+
+.service .service-kanan{
+	
+}
+
+.service .service-kanan h4{
+	margin: 0;
+	font-size: 13pt;
+}
+
+
+/*detail produk*/
+.product-gambar{
+	margin-bottom: 20px;
+}
+
+.product-detail{
+	margin: 35px 0px;
+}
+
+
+.detail-harga{
+	font-size: 25pt;
+	margin-bottom: 20px;
+}
+
+
+/*tombol beli*/
+.btn-beli-langsung{
+	font-size: 13pt;
+}
+
+.btn-bukalapak{
+  font-size: 13pt;
+  color: #fff;
+  background-color: #D71149;
+  padding: 10px;
+  float: none;
+  text-align: center;
+  display: inline-block;
+  -webkit-transition:all .2s ease-in-out;
+  transition:all .2s ease-in-out;
+  margin: 5px 0px;
+  border-radius: 3px;
+}
+
+.btn-bukalapak:visited,
+.btn-bukalapak:active,
+.btn-bukalapak:hover{
+  background-color: #C30F42;
+  color: #fff;
+}
+
+.btn-tokopedia{
+  font-size: 13pt;
+  margin: 5px 0px;
+  color: #fff;
+  background: #42B548;
+  padding: 10px;
+  float: none;
+  text-align: center;
+  display: inline-block;
+  -webkit-transition:all .2s ease-in-out;
+  transition:all .2s ease-in-out;
+  border-radius: 3px;
+}
+
+.btn-tokopedia:active,
+.btn-tokopedia:visited,
+.btn-tokopedia:hover{
+  background-color: #4F9D4E;
+  color: #fff;
+}
+
+.produk-detail-nama{
+	font-size: 21pt !important;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+.single-post .img-cover{
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.navbar-brand{
+	padding: 7px 20px !important;	
+}
+.navbar-brand > img{
+	height: 100% !important;
+}
+
+
+/*desktop*/
+@media screen and (min-width: 980px){
+
+}
+
+/*tablet*/
+@media screen  and (max-width: 979px){
+	.product-item{
+		width: 49%;
+	}
+}
+
+@media screen and (max-width: 700px) {
+	.product-item{
+		width: 100%;
+	}
+}
+
+/* Mobile */
+@media screen and (max-width: 500px) {
+	.product-item{
+		width: 100%;
+	}
+}
