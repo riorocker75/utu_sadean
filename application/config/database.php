@@ -79,6 +79,11 @@ $db['default'] = array(
 	'username' => 'root',
 	'password' => '',
 	'database' => 'utu_sadean',
+
+	// 'username' => 'u619955691_sadean',
+	// 'password' => 'u619955691_sadean',
+	// 'database' => 'Qwerty1234',
+
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
